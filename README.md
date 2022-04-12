@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Just-Pankaj
+- 👋 Hi, I’m @YPankaj1
 - 👀 I’m interested in CP and ML
 - 🌱 I’m currently learning CP
 - 💞️ I’m looking to collaborate on ...
