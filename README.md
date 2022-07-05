@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @YPankaj1
-- 👀 I’m interested in CP and ML
-- 🌱 I’m currently learning CP
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pankaj.jdh2020@gmail.com
